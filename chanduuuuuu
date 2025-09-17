@@ -1,0 +1,7 @@
+#7write a program to print primitive datatypes
+a=10
+b=1.5
+c=True
+print("integer:",a)
+print("float:",b)
+print("bool:",c)
