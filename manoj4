@@ -1,0 +1,6 @@
+#14 to find largest of three numbers
+a=15
+b=78
+c=23
+z=max(a,b,c)
+print(z)
