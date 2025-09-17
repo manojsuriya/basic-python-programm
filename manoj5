@@ -1,0 +1,5 @@
+#13 multiply floating point
+a=float(input("enter the number"))
+b=float(input("enter the number"))
+c=a*b
+print(c)
