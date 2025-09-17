@@ -1,0 +1,5 @@
+#2print two numbers
+num1=input("enter the first number")
+num2=input("enter the second number")
+print("first number:",num1)
+print("second number",num2)
