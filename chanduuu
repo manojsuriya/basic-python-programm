@@ -1,0 +1,5 @@
+#4concatenate first name and last name
+a=input("enter the first name")
+b=input("enter the second name")
+c=a+b
+print("full name:",c)
