@@ -1,0 +1,9 @@
+#8to print non primitive datatypes
+my_list=[10,20,30,"bye"]
+my_tuple=(10,20,30)
+my_set={1,2,3}
+my_dict={"name":"Akhil","age":20}
+print(my_list)
+print(my_tuple)
+print(my_set)
+print(my_dict)
