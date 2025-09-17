@@ -1,0 +1,5 @@
+#3Add two numbers
+num1=int(input("enter the first numbere"))
+num2=int(input("enter the second number"))
+add=num1+num2
+print("addition of two numbers:",add)
