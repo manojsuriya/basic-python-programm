@@ -1,0 +1,4 @@
+#12 covert minutes to seconds
+a=int(input("enter the no of minutes"))
+b=a*60
+print(b)
