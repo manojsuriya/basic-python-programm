@@ -1,0 +1,4 @@
+#9square of a number
+num=5
+square=num**2
+print(square)
